@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66464e799880ab0b26532154"
+  },
+  "naziv": "More",
+  "adresa": "Vukovarska 18",
+  "telefon": "+38597000312",
+  "vrsta": "fine dining"
+},
+{
+  "_id": {
+    "$oid": "6646503d9880ab0b26532156"
+  },
+  "naziv": "Riba",
+  "adresa": "More 18",
+  "telefon": "+38598000312",
+  "vrsta": "fast-food"
+},
+{
+  "_id": {
+    "$oid": "6646507a9880ab0b26532157"
+  },
+  "naziv": "Hobotnica",
+  "adresa": "Skarpina 1",
+  "telefon": "+38597000222",
+  "vrsta": "row food"
+},
+{
+  "_id": {
+    "$oid": "664650bf9880ab0b26532158"
+  },
+  "naziv": "Skoljka",
+  "adresa": "Biser 3",
+  "telefon": "+3859702452",
+  "vrsta": "fine dining"
+},
+{
+  "_id": {
+    "$oid": "664650ed9880ab0b26532159"
+  },
+  "naziv": "Salata",
+  "adresa": " Doline 4",
+  "telefon": "+38596000312",
+  "vrsta": "vegeterian"
+}]
