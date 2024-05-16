@@ -7,7 +7,7 @@ const port = 3001;
 app.use(express.json());
 
 // Povezivanje na MongoDB bazu podataka
-mongoose.connect('mongodb://localhost:27017/restorani')
+mongoose.connect('mongodb+srv://petravuka2:07112019@cluster0.ladwrq4.mongodb.net/', { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => console.log('Connected to MongoDB'))
   .catch(err => console.error('Connection to MongoDB failed:', err));
 
